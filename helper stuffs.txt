@@ -1,0 +1,4 @@
+libraries:
+preprocessing: nltk and emoji
+neural networks (neural networks are used for cbow model) : keras, pytorch
+
